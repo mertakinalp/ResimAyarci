@@ -1,0 +1,5 @@
+C:\Users\merta\Documents\Visual Studio 2008\Projects\ImageResizing\ImageResizing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\merta\Documents\Visual Studio 2008\Projects\ImageResizing\ImageResizing\bin\Debug\ImageResizing.dll
+C:\Users\merta\Documents\Visual Studio 2008\Projects\ImageResizing\ImageResizing\bin\Debug\ImageResizing.pdb
+C:\Users\merta\Documents\Visual Studio 2008\Projects\ImageResizing\ImageResizing\obj\Debug\ImageResizing.dll
+C:\Users\merta\Documents\Visual Studio 2008\Projects\ImageResizing\ImageResizing\obj\Debug\ImageResizing.pdb

@@ -1,0 +1,5 @@
+C:\Users\merta\Documents\Visual Studio 2008\Projects\ImageResizing\ImageResizing\bin\Release\ImajBoyutlandirma.dll
+C:\Users\merta\Documents\Visual Studio 2008\Projects\ImageResizing\ImageResizing\bin\Release\ImajBoyutlandirma.pdb
+C:\Users\merta\Documents\Visual Studio 2008\Projects\ImageResizing\ImageResizing\obj\Release\ResolveAssemblyReference.cache
+C:\Users\merta\Documents\Visual Studio 2008\Projects\ImageResizing\ImageResizing\obj\Release\ImajBoyutlandirma.dll
+C:\Users\merta\Documents\Visual Studio 2008\Projects\ImageResizing\ImageResizing\obj\Release\ImajBoyutlandirma.pdb
